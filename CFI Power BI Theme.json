@@ -1,0 +1,75 @@
+﻿{
+	"name": "CFI Theme",
+	"dataColors": [
+		"#132E57",
+		"#25A2AF",
+		"#3271D2",
+		"#5A1973",
+		"#B7276E",
+		"#ED942D",
+		"#D94545",
+		"#1F995B",
+		"#ED942D",
+		"#3271D2"
+	],
+	"textClasses": {
+		"label": {
+			"color": "#132E57",
+			"fontFace": "Arial"
+		},
+		"callout": {
+			"color": "#132E57",
+			"fontFace": "Arial",
+			"fontSize": 44
+		},
+		"title": {
+			"color": "#FFFFFF",
+			"fontFace": "Arial"
+		}
+	},
+	"foreground": "#132E57",
+	"visualStyles": {
+		"*": {
+			"*": {
+				"border": [
+					{
+						"color": {
+							"solid": {
+								"color": "#132E57"
+							}
+						},
+						"show": true
+					}
+				],
+				"visualHeader": [
+					{
+						"background": {
+							"solid": {
+								"color": "#3271D2"
+							}
+						}
+					}
+				]
+			}
+		},
+		"page": {
+			"*": {
+				"background": [
+					{
+						"transparency": 100
+					}
+				],
+				"outspace": [
+					{
+						"color": {
+							"solid": {
+								"color": "#E6E6E6"
+							}
+						},
+						"transparency": 0
+					}
+				]
+			}
+		}
+	}
+}
