@@ -2,3 +2,7 @@ To accomplish this project, I wrote an SQL query to retrieve General Ledger Data
 
 
 ![image](https://github.com/gnavarrolema/Financial-Statements-in-Power-BI/assets/98982862/020f4e46-c14e-43f7-8320-6ff655be3639)
+
+
+![image](https://github.com/gnavarrolema/Financial-Statements-in-Power-BI/assets/98982862/a97836c5-2d6d-4687-8e52-cc92086a4480)
+
